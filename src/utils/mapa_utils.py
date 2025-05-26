@@ -12,7 +12,7 @@ sys.path.append("src")
 from model.entorno import ObstaculoFuturista
 
 # Clave API para el servicio de generación de mapas.
-API_KEY = "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"
+API_KEY = "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"
 
 class GeneradorDeMapas:
     """
